@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&family=Roboto+Slab:wght@500&family=Spartan:wght@400;700&display=swap');
+
+.buybutton-wrapper {
+    display        : flex;
+    width          : 95vw;
+    margin         : auto;
+    justify-content: center;
+}
+
+.add-on {
+    margin   : 16px;
+    min-width: 370px;
+
+}
+
+.addon-topic {
+    color         : rgb(6, 95, 40);
+    margin-bottom : 0;
+    margin-top    : 0px;
+    text-align    : center;
+    text-transform: uppercase;
+    font-family   : 'Playball', cursive;
+}
+
+
+.loader {
+    left     : 50%;
+    top      : 50%;
+    position : fixed;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,12 @@
+.Product-wrapper {
+    width          : 100vw;
+    display        : flex;
+    flex-wrap      : wrap;
+    justify-content: center;
+    overflow-x     : auto;
+    overflow-y     : auto;
+    padding: 0%;
+    
+}
+
+
